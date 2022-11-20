@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.572a6c50.css",
+    "main.js": "/static/js/main.a535ff61.js",
+    "static/media/intel.png": "/static/media/intel.9cbe976178b8f144a86a.png",
+    "static/media/nvdia.png": "/static/media/nvdia.8c12c0c0051e6ffd6ebf.png",
+    "static/media/banner1.png": "/static/media/banner1.697bd700e73c44f11657.png",
+    "static/media/banner4.png": "/static/media/banner4.054d38f5676b4ceef4e1.png",
+    "static/media/banner3.png": "/static/media/banner3.c387ec4d95cdc476aaed.png",
+    "static/media/banner2.png": "/static/media/banner2.97cf26f0a1b833375f3c.png",
+    "static/media/brands.png": "/static/media/brands.33bbe819cf46806b820a.png",
+    "index.html": "/index.html",
+    "main.572a6c50.css.map": "/static/css/main.572a6c50.css.map",
+    "main.a535ff61.js.map": "/static/js/main.a535ff61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.572a6c50.css",
+    "static/js/main.a535ff61.js"
+  ]
+}
